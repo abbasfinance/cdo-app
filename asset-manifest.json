@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cdo-app/static/css/main.001868c4.css",
+    "main.js": "/cdo-app/static/js/main.f371d281.js",
+    "index.html": "/cdo-app/index.html",
+    "main.001868c4.css.map": "/cdo-app/static/css/main.001868c4.css.map",
+    "main.f371d281.js.map": "/cdo-app/static/js/main.f371d281.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.001868c4.css",
+    "static/js/main.f371d281.js"
+  ]
+}
